@@ -15,6 +15,7 @@ public class StoreApplication {
         System.out.println("hello git");
         System.out.println("hello master");
         System.out.println("hello hot-fix");
+        System.out.println("hot-fix");
     }
 
 }
