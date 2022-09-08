@@ -13,6 +13,8 @@ public class StoreApplication {
     public static void main(String[] args) {
         SpringApplication.run(StoreApplication.class, args);
         System.out.println("hello git");
+        System.out.println("hello master");
+        System.out.println("hello hot-fix");
     }
 
 }
